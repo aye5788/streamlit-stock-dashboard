@@ -1,0 +1,6 @@
+streamlit
+requests
+mplfinance
+scikit-learn
+pandas
+numpy
